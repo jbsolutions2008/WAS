@@ -1,0 +1,264 @@
+/* {card brand} ending in {last4} */
+"%@ Ending In %@" = "%1$@ A terminar em %2$@";
+
+/* Source type brand name */
+"3D Secure" = "3D Secure";
+
+/* part of {Account} ending in {last4} */
+"Account" = "Conta";
+
+/* Title for address entry section */
+"ACCOUNT HOLDER ADDRESS" = "ENDEREÇO DO TITULAR DE CONTA";
+
+/* Caption for Name field on bank info form */
+"Account Holder Name" = "Nome do titular de conta";
+
+/* Title for Add a Card view */
+"Add a Card" = "Adicionar um cartão";
+
+/* Title for SEPA Debit Account form */
+"Add a Direct Debit Account" = "Adicionar uma conta de débito direto";
+
+/* Button to add a new credit card. */
+"Add New Card…" = "Adicionar Novo Cartão...";
+
+/* Caption for Address field on address form */
+"Address" = "Endereço";
+
+/* Source type brand name */
+"Alipay" = "Alipay";
+
+/* Text for Apple Pay payment method */
+"Apple Pay" = "Apple Pay";
+
+/* Caption for Apartment/Address line 2 field on address form */
+"Apt." = "Apt.";
+
+/* Text for back button */
+"Back" = "Voltar";
+
+/* Source type brand name */
+"Bancontact" = "Bancontact";
+
+/* Title for bank picker section */
+"BANK" = "BANCO";
+
+/* Title for bank account information form */
+"BANK ACCOUNT INFORMATION" = "INFORMAÇÕES DE CONTA BANCÁRIA";
+
+/* Title for billing address entry section */
+"BILLING ADDRESS" = "ENDEREÇO DE FATURAÇÃO";
+
+/* Title for billing address entry section */
+"Billing Address" = "Endereço de Faturação";
+
+/* SEPA legal authorization text – must use official translations. */
+"By providing your IBAN and confirming this payment, you are authorizing %@ and Stripe, our payment service provider, to send instructions to your bank to debit your account and your bank to debit your account in accordance with those instructions. You are entitled to a refund from your bank under the terms and conditions of your agreement with your bank. A refund must be claimed within 8 weeks starting from the date on which your account was debited." = "Ao fornecer o seu IBAN e confirmar este pagamento, está a autorizar %@ e a Stripe, o nosso prestador de serviços de pagamentos, a enviar instruções ao seu banco para debitar a sua conta em conformidade com estas instruções. Tem o direito a um reembolso do seu banco ao abrigo dos termos e condições do seu contrato com o seu banco. Deve ser pedido um reembolso dentro de 8 semanas a partir da data em que a sua conta foi debitada.";
+
+/* Title for card number entry field */
+"CARD" = "CARTÃO";
+
+/* Title for credit card number entry field */
+"Card" = "Cartão";
+
+/* accessibility label for text field */
+"card number" = "número do cartão";
+
+/* Caption for City field on address form */
+"City" = "Cidade";
+
+/* Title for contact info form */
+"Contact" = "Contacto";
+
+/* Title for contact info form */
+"CONTACT" = "CONTACTO";
+
+/* Text for continue button */
+"Continue" = "Continuar";
+
+/* Caption for Country field on address form */
+"Country" = "País";
+
+/* Title for country picker section */
+"COUNTRY" = "PAÍS";
+
+/* Caption for County field on address form (only countries that use county, like United Kingdom) */
+"County" = "Concelho";
+
+/* Label for entering CVC in text field */
+"CVC" = "CVC";
+
+/* Label for entering CVV in text field */
+"CVV" = "CVV";
+
+/* Title for delivery info form */
+"Delivery" = "Entrega";
+
+/* Title for delivery address entry section */
+"DELIVERY ADDRESS" = "ENDEREÇO DE ENTREGA";
+
+/* Title for delivery address entry section */
+"Delivery Address" = "Endereço de entrega";
+
+/* Caption for Email field on address form */
+"Email" = "E-mail";
+
+/* Source type brand name */
+"EPS" = "EPS";
+
+/* accessibility label for text field */
+"expiration date" = "Data de validade";
+
+/* Label for free shipping method */
+"Free" = "Gratuito";
+
+/* Source type brand name */
+"Giropay" = "Giropay";
+
+/* IBAN placeholder – don't translate */
+"IBAN" = "IBAN";
+
+/* Source type brand name */
+"iDEAL" = "iDEAL";
+
+/* Shipping form error message */
+"Invalid Shipping Address" = "Endereço de envio inválido";
+
+/* Title for screen when data is still loading from the network. */
+"Loading…" = "A carregar...";
+
+/* label for text field to enter card expiry */
+"MM/YY" = "MM/AA";
+
+/* Title for payment options section */
+"MORE OPTIONS" = "MAIS OPÇÕES";
+
+/* Source type brand name */
+"Multibanco" = "Multibanco";
+
+/* Caption for Name field on address form */
+"Name" = "Nome";
+
+/* Label for button to add a new credit or debit card */
+"New Card" = "Novo cartão";
+
+/* Label for button to add a new SEPA Direct Debit account */
+"New Direct Debit Account" = "Nova conta de débito direto";
+
+/* Accessibility label for button to add a new SEPA Direct Debit account */
+"New SEPA Direct Debit Account" = "Nova conta de débito direto SEPA";
+
+/* Button to move to the next text entry field */
+"Next" = "Seguinte";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* Source type brand name */
+"P24" = "P24";
+
+/* Pay with {payment method} */
+"Pay with %@" = "Pagar com %@";
+
+/* Title for Payment Method screen */
+"Payment Method" = "Método de Pagamento";
+
+/* Caption for Phone field on address form */
+"Phone" = "Telefone";
+
+/* Short string for postal code (text used in non-US countries). Please keep to 8 characters or less if possible. */
+"Postal" = "C.P.";
+
+/* Caption for Postal Code field on address form (only shown in countries other than the United States) */
+"Postal Code" = "C.P.";
+
+/* Caption for Province field on address form (only countries that use province, like Canada) */
+"Province" = "Província";
+
+/* Text for button to scan a credit card */
+"Scan Card" = "Ler cartão";
+
+/* part of {SEPA Account} ending in {last4} */
+"SEPA Account" = "Conta SEPA";
+
+/* Source type brand name */
+"SEPA Direct Debit" = "Débito direto SEPA";
+
+/* Title for shipping info form */
+"Shipping" = "Envio";
+
+/* Title for shipping address entry section */
+"SHIPPING ADDRESS" = "ENDEREÇO DE ENVIO";
+
+/* Title for shipping address entry section */
+"Shipping Address" = "Endereço de envio";
+
+/* Label for shipping method form */
+"SHIPPING METHOD" = "MÉTODO DE ENVIO";
+
+/* Label for shipping method form */
+"Shipping Method" = "Método de envio";
+
+/* Source type brand name */
+"SOFORT" = "SOFORT";
+
+/* Caption for State field on address form (only countries that use state , like United States) */
+"State" = "Estado";
+
+/* Caption for generalized state/province/region field on address form (not tied to a specific country's format) */
+"State / Province / Region" = "Estado/Província/Região";
+
+/* Error when the seleted payment method is not available (eg attempted to use 3D Secure on a card that does not support it). */
+"The selected payment method is not available." = "O método de pagamento selecionado não está disponível.";
+
+/* Error when there is a problem processing the credit card */
+"There was an error processing your card -- try again in a few seconds" = "Ocorreu um erro ao processar o seu cartão -- tente novamente dentro de alguns segundos";
+
+/* Unexpected error, such as a 500 from Stripe or a JSON parse error */
+"There was an unexpected error -- try again in a few seconds" = "Ocorreu um erro inesperado -- tente novamente dentro de alguns segundos";
+
+/* Error when 3DS2 authentication timed out. */
+"Timed out authenticating your payment method -- try again" = "A autenticação do seu método de pagamento atingiu o tempo limite -- tente novamente";
+
+/* Default missing source type label */
+"Unknown" = "Desconhecido";
+
+/* Button to fill shipping address from billing address. */
+"Use Billing" = "Utilizar endereço de faturação";
+
+/* Button to fill billing address from delivery address. */
+"Use Delivery" = "Utilizar endereço de entrega";
+
+/* Button to fill billing address from shipping address. */
+"Use Shipping" = "Utilizar endereço de envio";
+
+/* Error when 3DS2 authentication failed (e.g. customer entered the wrong code) */
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Não conseguimos autenticar o seu método de pagamento. Selecione outro método de pagamento e tente novamente.";
+
+/* You'll be taken to {bank name} to finish your purchase. */
+"You'll be taken to %@ to finish your purchase." = "Será direcionado para %@ para concluir a sua compra.";
+
+/* Error when the card has already expired */
+"Your card has expired" = "O seu cartão expirou";
+
+/* Error when the card was declined by the credit card networks */
+"Your card was declined" = "O seu cartão foi recusado";
+
+/* Error when the card's expiration month is not valid */
+"Your card's expiration month is invalid" = "O mês de validade do seu cartão é inválido";
+
+/* Error when the card's expiration year is not valid */
+"Your card's expiration year is invalid" = "O ano de validade do seu cartão é inválido";
+
+/* Error when the card number is not valid */
+"Your card's number is invalid" = "O número do seu cartão é inválido";
+
+/* Error when the card's CVC is not valid */
+"Your card's security code is invalid" = "O código de segurança do seu cartão é inválido";
+
+/* Short string for zip code (United States only) Please keep to 5 characters or less if possible. */
+"ZIP" = "C.P.";
+
+/* Caption for Zip Code field on address form (only shown when country is United States only) */
+"ZIP Code" = "C.P.";
+

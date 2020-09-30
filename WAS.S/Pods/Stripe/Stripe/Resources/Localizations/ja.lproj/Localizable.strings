@@ -1,0 +1,264 @@
+/* {card brand} ending in {last4} */
+"%@ Ending In %@" = "%1$@ — %2$@";
+
+/* Source type brand name */
+"3D Secure" = "3D セキュア";
+
+/* part of {Account} ending in {last4} */
+"Account" = "アカウント";
+
+/* Title for address entry section */
+"ACCOUNT HOLDER ADDRESS" = "口座名義人住所";
+
+/* Caption for Name field on bank info form */
+"Account Holder Name" = "口座名義人";
+
+/* Title for Add a Card view */
+"Add a Card" = "クレジットカードを追加";
+
+/* Title for SEPA Debit Account form */
+"Add a Direct Debit Account" = "ダイレクトデビット アカウントを追加";
+
+/* Button to add a new credit card. */
+"Add New Card…" = "新しいクレジットカードを追加...";
+
+/* Caption for Address field on address form */
+"Address" = "住所";
+
+/* Source type brand name */
+"Alipay" = "Alipay";
+
+/* Text for Apple Pay payment method */
+"Apple Pay" = "Apple Pay";
+
+/* Caption for Apartment/Address line 2 field on address form */
+"Apt." = "建物名";
+
+/* Text for back button */
+"Back" = "戻る";
+
+/* Source type brand name */
+"Bancontact" = "Bancontact";
+
+/* Title for bank picker section */
+"BANK" = "銀行";
+
+/* Title for bank account information form */
+"BANK ACCOUNT INFORMATION" = "銀行口座情報";
+
+/* Title for billing address entry section */
+"BILLING ADDRESS" = "請求書先住所";
+
+/* Title for billing address entry section */
+"Billing Address" = "請求先住所";
+
+/* SEPA legal authorization text – must use official translations. */
+"By providing your IBAN and confirming this payment, you are authorizing %@ and Stripe, our payment service provider, to send instructions to your bank to debit your account and your bank to debit your account in accordance with those instructions. You are entitled to a refund from your bank under the terms and conditions of your agreement with your bank. A refund must be claimed within 8 weeks starting from the date on which your account was debited." = "IBAN を提供し、このお支払いを確認すると、お客様は、決済サービス プロバイダである Stripe と %@ からお客様の銀行に口座引き落としの指示を送り、お客様の銀行がこの指示に従ってお客様の口座から引き落としを行うことを承認することになります。お客様は銀行との契約条件に基づき、銀行からの返金を受ける権利を有します。返金は口座の引き落とし日から 8 週間以内に請求する必要があります。 ";
+
+/* Title for card number entry field */
+"CARD" = "クレジットカード";
+
+/* Title for credit card number entry field */
+"Card" = "クレジットカード番号";
+
+/* accessibility label for text field */
+"card number" = "クレジットカード番号";
+
+/* Caption for City field on address form */
+"City" = "市";
+
+/* Title for contact info form */
+"Contact" = "連絡先";
+
+/* Title for contact info form */
+"CONTACT" = "連絡先";
+
+/* Text for continue button */
+"Continue" = "続ける";
+
+/* Caption for Country field on address form */
+"Country" = "国";
+
+/* Title for country picker section */
+"COUNTRY" = "国";
+
+/* Caption for County field on address form (only countries that use county, like United Kingdom) */
+"County" = "郡";
+
+/* Label for entering CVC in text field */
+"CVC" = "セキュリティコード";
+
+/* Label for entering CVV in text field */
+"CVV" = "CVV";
+
+/* Title for delivery info form */
+"Delivery" = "配達先情報";
+
+/* Title for delivery address entry section */
+"DELIVERY ADDRESS" = "配達先住所";
+
+/* Title for delivery address entry section */
+"Delivery Address" = "配達先住所";
+
+/* Caption for Email field on address form */
+"Email" = "メールアドレス";
+
+/* Source type brand name */
+"EPS" = "EPS";
+
+/* accessibility label for text field */
+"expiration date" = "有効期限";
+
+/* Label for free shipping method */
+"Free" = "無料";
+
+/* Source type brand name */
+"Giropay" = "Giropay";
+
+/* IBAN placeholder – don't translate */
+"IBAN" = "IBAN";
+
+/* Source type brand name */
+"iDEAL" = "iDEAL";
+
+/* Shipping form error message */
+"Invalid Shipping Address" = "配送先住所エラー";
+
+/* Title for screen when data is still loading from the network. */
+"Loading…" = "ロード中...";
+
+/* label for text field to enter card expiry */
+"MM/YY" = "MM/YY";
+
+/* Title for payment options section */
+"MORE OPTIONS" = "他のオプション";
+
+/* Source type brand name */
+"Multibanco" = "Multibanco";
+
+/* Caption for Name field on address form */
+"Name" = "名前";
+
+/* Label for button to add a new credit or debit card */
+"New Card" = "新しいクレジットカード";
+
+/* Label for button to add a new SEPA Direct Debit account */
+"New Direct Debit Account" = "新しいダイレクトデビット アカウント";
+
+/* Accessibility label for button to add a new SEPA Direct Debit account */
+"New SEPA Direct Debit Account" = "新しい SEPA ダイレクトデビット アカウント";
+
+/* Button to move to the next text entry field */
+"Next" = "次へ";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* Source type brand name */
+"P24" = "P24";
+
+/* Pay with {payment method} */
+"Pay with %@" = "%@ で支払う";
+
+/* Title for Payment Method screen */
+"Payment Method" = "お支払い方法";
+
+/* Caption for Phone field on address form */
+"Phone" = "電話";
+
+/* Short string for postal code (text used in non-US countries). Please keep to 8 characters or less if possible. */
+"Postal" = "郵便番号";
+
+/* Caption for Postal Code field on address form (only shown in countries other than the United States) */
+"Postal Code" = "郵便番号";
+
+/* Caption for Province field on address form (only countries that use province, like Canada) */
+"Province" = "都道府県";
+
+/* Text for button to scan a credit card */
+"Scan Card" = "クレジットカードをスキャン";
+
+/* part of {SEPA Account} ending in {last4} */
+"SEPA Account" = "SEPA アカウント";
+
+/* Source type brand name */
+"SEPA Direct Debit" = "SEPAダイレクトデビット";
+
+/* Title for shipping info form */
+"Shipping" = "配送先情報";
+
+/* Title for shipping address entry section */
+"SHIPPING ADDRESS" = "配送先住所";
+
+/* Title for shipping address entry section */
+"Shipping Address" = "配送先住所";
+
+/* Label for shipping method form */
+"SHIPPING METHOD" = "配送方法";
+
+/* Label for shipping method form */
+"Shipping Method" = "配送方法";
+
+/* Source type brand name */
+"SOFORT" = "SOFORT";
+
+/* Caption for State field on address form (only countries that use state , like United States) */
+"State" = "都道府県";
+
+/* Caption for generalized state/province/region field on address form (not tied to a specific country's format) */
+"State / Province / Region" = "都道府県";
+
+/* Error when the seleted payment method is not available (eg attempted to use 3D Secure on a card that does not support it). */
+"The selected payment method is not available." = "選択された支払い方法はご利用できません。";
+
+/* Error when there is a problem processing the credit card */
+"There was an error processing your card -- try again in a few seconds" = "クレジットカード情報の処理中にエラーが発生しました。数秒後にもう一度お試しください";
+
+/* Unexpected error, such as a 500 from Stripe or a JSON parse error */
+"There was an unexpected error -- try again in a few seconds" = "予期しないエラーが発生しました。数秒後にもう一度お試しください";
+
+/* Error when 3DS2 authentication timed out. */
+"Timed out authenticating your payment method -- try again" = "支払い方法の認証がタイムアウトしました。もう一度お試しください";
+
+/* Default missing source type label */
+"Unknown" = "不明";
+
+/* Button to fill shipping address from billing address. */
+"Use Billing" = "請求先を使用";
+
+/* Button to fill billing address from delivery address. */
+"Use Delivery" = "配達先を使用";
+
+/* Button to fill billing address from shipping address. */
+"Use Shipping" = "配送先を使用";
+
+/* Error when 3DS2 authentication failed (e.g. customer entered the wrong code) */
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "お客様の支払い方法を認証できませんでした。別の支払い方法を選択してもう一度お試しください。";
+
+/* You'll be taken to {bank name} to finish your purchase. */
+"You'll be taken to %@ to finish your purchase." = "購入完了のため %@ へ移動します。";
+
+/* Error when the card has already expired */
+"Your card has expired" = "クレジットカードの有効期限が切れています";
+
+/* Error when the card was declined by the credit card networks */
+"Your card was declined" = "クレジットカードが拒否されました";
+
+/* Error when the card's expiration month is not valid */
+"Your card's expiration month is invalid" = "クレジットカードの有効期限として指定した月が無効です";
+
+/* Error when the card's expiration year is not valid */
+"Your card's expiration year is invalid" = "クレジットカードの有効期限として指定した年が無効です";
+
+/* Error when the card number is not valid */
+"Your card's number is invalid" = "クレジットカードの番号が無効です";
+
+/* Error when the card's CVC is not valid */
+"Your card's security code is invalid" = "指定したカードのセキュリティコードが無効です";
+
+/* Short string for zip code (United States only) Please keep to 5 characters or less if possible. */
+"ZIP" = "郵便番号";
+
+/* Caption for Zip Code field on address form (only shown when country is United States only) */
+"ZIP Code" = "郵便番号";
+

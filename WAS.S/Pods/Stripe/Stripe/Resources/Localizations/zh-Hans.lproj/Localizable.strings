@@ -1,0 +1,264 @@
+/* {card brand} ending in {last4} */
+"%@ Ending In %@" = "%1$@ — %2$@";
+
+/* Source type brand name */
+"3D Secure" = "3D Secure";
+
+/* part of {Account} ending in {last4} */
+"Account" = "帐户";
+
+/* Title for address entry section */
+"ACCOUNT HOLDER ADDRESS" = "帐户持有人地址";
+
+/* Caption for Name field on bank info form */
+"Account Holder Name" = "帐户持有人姓名";
+
+/* Title for Add a Card view */
+"Add a Card" = "添加一张卡";
+
+/* Title for SEPA Debit Account form */
+"Add a Direct Debit Account" = "添加一个直接借记帐户";
+
+/* Button to add a new credit card. */
+"Add New Card…" = "添加新卡……";
+
+/* Caption for Address field on address form */
+"Address" = "地址";
+
+/* Source type brand name */
+"Alipay" = "Alipay";
+
+/* Text for Apple Pay payment method */
+"Apple Pay" = "Apple Pay";
+
+/* Caption for Apartment/Address line 2 field on address form */
+"Apt." = "地址第二行";
+
+/* Text for back button */
+"Back" = "返回";
+
+/* Source type brand name */
+"Bancontact" = "Bancontact";
+
+/* Title for bank picker section */
+"BANK" = "银行";
+
+/* Title for bank account information form */
+"BANK ACCOUNT INFORMATION" = "银行帐户信息";
+
+/* Title for billing address entry section */
+"BILLING ADDRESS" = "帐单地址";
+
+/* Title for billing address entry section */
+"Billing Address" = "帐单地址";
+
+/* SEPA legal authorization text – must use official translations. */
+"By providing your IBAN and confirming this payment, you are authorizing %@ and Stripe, our payment service provider, to send instructions to your bank to debit your account and your bank to debit your account in accordance with those instructions. You are entitled to a refund from your bank under the terms and conditions of your agreement with your bank. A refund must be claimed within 8 weeks starting from the date on which your account was debited." = "提供您的 IBAN 信息并确认支付即表示您已授权 %@ 和 Stripe，即我们的支付服务供应商发送指示给您的银行，从您的借记帐户扣除款项，并授权您的银行根据此指示从您的帐户扣除款项。您有权根据您与银行之间的协议条款和条件向您的银行要求退款。退款要求必须在从您的帐户扣除款项之日起的 8 周之内提出。";
+
+/* Title for card number entry field */
+"CARD" = "卡号";
+
+/* Title for credit card number entry field */
+"Card" = "卡号";
+
+/* accessibility label for text field */
+"card number" = "卡号";
+
+/* Caption for City field on address form */
+"City" = "城市";
+
+/* Title for contact info form */
+"Contact" = "联系信息";
+
+/* Title for contact info form */
+"CONTACT" = "联系信息";
+
+/* Text for continue button */
+"Continue" = "继续";
+
+/* Caption for Country field on address form */
+"Country" = "国家";
+
+/* Title for country picker section */
+"COUNTRY" = "国家";
+
+/* Caption for County field on address form (only countries that use county, like United Kingdom) */
+"County" = "县";
+
+/* Label for entering CVC in text field */
+"CVC" = "CVC";
+
+/* Label for entering CVV in text field */
+"CVV" = "CVV";
+
+/* Title for delivery info form */
+"Delivery" = "收货信息";
+
+/* Title for delivery address entry section */
+"DELIVERY ADDRESS" = "收货地址";
+
+/* Title for delivery address entry section */
+"Delivery Address" = "收货地址";
+
+/* Caption for Email field on address form */
+"Email" = "电子邮件";
+
+/* Source type brand name */
+"EPS" = "EPS";
+
+/* accessibility label for text field */
+"expiration date" = "有效日期";
+
+/* Label for free shipping method */
+"Free" = "免费";
+
+/* Source type brand name */
+"Giropay" = "Giropay";
+
+/* IBAN placeholder – don't translate */
+"IBAN" = "IBAN";
+
+/* Source type brand name */
+"iDEAL" = "iDEAL";
+
+/* Shipping form error message */
+"Invalid Shipping Address" = "无效的送货地址";
+
+/* Title for screen when data is still loading from the network. */
+"Loading…" = "正在加载……";
+
+/* label for text field to enter card expiry */
+"MM/YY" = "MM/YY";
+
+/* Title for payment options section */
+"MORE OPTIONS" = "更多选择";
+
+/* Source type brand name */
+"Multibanco" = "Multibanco";
+
+/* Caption for Name field on address form */
+"Name" = "姓名";
+
+/* Label for button to add a new credit or debit card */
+"New Card" = "添加新卡";
+
+/* Label for button to add a new SEPA Direct Debit account */
+"New Direct Debit Account" = "添加新的直接借记帐户";
+
+/* Accessibility label for button to add a new SEPA Direct Debit account */
+"New SEPA Direct Debit Account" = "添加新的 SEPA 直接借记帐户";
+
+/* Button to move to the next text entry field */
+"Next" = "下一步";
+
+/* No comment provided by engineer. */
+"OK" = "确定";
+
+/* Source type brand name */
+"P24" = "P24";
+
+/* Pay with {payment method} */
+"Pay with %@" = "用 %@ 支付";
+
+/* Title for Payment Method screen */
+"Payment Method" = "支付方式";
+
+/* Caption for Phone field on address form */
+"Phone" = "电话";
+
+/* Short string for postal code (text used in non-US countries). Please keep to 8 characters or less if possible. */
+"Postal" = "邮编";
+
+/* Caption for Postal Code field on address form (only shown in countries other than the United States) */
+"Postal Code" = "邮编";
+
+/* Caption for Province field on address form (only countries that use province, like Canada) */
+"Province" = "省";
+
+/* Text for button to scan a credit card */
+"Scan Card" = "扫描银行卡";
+
+/* part of {SEPA Account} ending in {last4} */
+"SEPA Account" = "SEPA 帐户";
+
+/* Source type brand name */
+"SEPA Direct Debit" = "单一欧元支付区直接扣款";
+
+/* Title for shipping info form */
+"Shipping" = "送货信息";
+
+/* Title for shipping address entry section */
+"SHIPPING ADDRESS" = "送货地址";
+
+/* Title for shipping address entry section */
+"Shipping Address" = "送货地址";
+
+/* Label for shipping method form */
+"SHIPPING METHOD" = "送货方式";
+
+/* Label for shipping method form */
+"Shipping Method" = "送货方式";
+
+/* Source type brand name */
+"SOFORT" = "SOFORT";
+
+/* Caption for State field on address form (only countries that use state , like United States) */
+"State" = "州";
+
+/* Caption for generalized state/province/region field on address form (not tied to a specific country's format) */
+"State / Province / Region" = "州/省/地区";
+
+/* Error when the seleted payment method is not available (eg attempted to use 3D Secure on a card that does not support it). */
+"The selected payment method is not available." = "所选的支付方式不可用。";
+
+/* Error when there is a problem processing the credit card */
+"There was an error processing your card -- try again in a few seconds" = "处理您的银行卡时发生错误 —— 请过几秒钟再试";
+
+/* Unexpected error, such as a 500 from Stripe or a JSON parse error */
+"There was an unexpected error -- try again in a few seconds" = "发生意外错误 —— 请过几秒钟再试";
+
+/* Error when 3DS2 authentication timed out. */
+"Timed out authenticating your payment method -- try again" = "验证您的支付方式时失败——请重试";
+
+/* Default missing source type label */
+"Unknown" = "未知";
+
+/* Button to fill shipping address from billing address. */
+"Use Billing" = "使用帐单地址";
+
+/* Button to fill billing address from delivery address. */
+"Use Delivery" = "使用收货地址";
+
+/* Button to fill billing address from shipping address. */
+"Use Shipping" = "使用送货地址";
+
+/* Error when 3DS2 authentication failed (e.g. customer entered the wrong code) */
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "我们未能验证您的支付方式。请选择另一支付方式并重试。";
+
+/* You'll be taken to {bank name} to finish your purchase. */
+"You'll be taken to %@ to finish your purchase." = "您将转到 %@ 以完成购买。";
+
+/* Error when the card has already expired */
+"Your card has expired" = "您的银行卡已过期";
+
+/* Error when the card was declined by the credit card networks */
+"Your card was declined" = "您的银行卡已被拒绝";
+
+/* Error when the card's expiration month is not valid */
+"Your card's expiration month is invalid" = "您的银行卡有效日期的月份无效";
+
+/* Error when the card's expiration year is not valid */
+"Your card's expiration year is invalid" = "您的银行卡有效日期的年份无效";
+
+/* Error when the card number is not valid */
+"Your card's number is invalid" = "您的卡号无效";
+
+/* Error when the card's CVC is not valid */
+"Your card's security code is invalid" = "您的银行卡安全码无效";
+
+/* Short string for zip code (United States only) Please keep to 5 characters or less if possible. */
+"ZIP" = "邮编";
+
+/* Caption for Zip Code field on address form (only shown when country is United States only) */
+"ZIP Code" = "邮编";
+

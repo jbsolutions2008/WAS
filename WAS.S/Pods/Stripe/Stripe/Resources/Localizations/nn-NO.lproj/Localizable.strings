@@ -1,0 +1,264 @@
+/* {card brand} ending in {last4} */
+"%@ Ending In %@" = "%1$@ som sluttar på %2$@";
+
+/* Source type brand name */
+"3D Secure" = "3D Secure";
+
+/* part of {Account} ending in {last4} */
+"Account" = "Konto";
+
+/* Title for address entry section */
+"ACCOUNT HOLDER ADDRESS" = "KONTOINNEHAVERS ADRESSE";
+
+/* Caption for Name field on bank info form */
+"Account Holder Name" = "Kontohavarens namn";
+
+/* Title for Add a Card view */
+"Add a Card" = "Legg til kort";
+
+/* Title for SEPA Debit Account form */
+"Add a Direct Debit Account" = "Legg til ei AvtaleGiro-konto";
+
+/* Button to add a new credit card. */
+"Add New Card…" = "Legg til nytt kort …";
+
+/* Caption for Address field on address form */
+"Address" = "Adresse";
+
+/* Source type brand name */
+"Alipay" = "Alipay";
+
+/* Text for Apple Pay payment method */
+"Apple Pay" = "Apple Pay";
+
+/* Caption for Apartment/Address line 2 field on address form */
+"Apt." = "Leil.";
+
+/* Text for back button */
+"Back" = "Tilbake";
+
+/* Source type brand name */
+"Bancontact" = "Bancontact";
+
+/* Title for bank picker section */
+"BANK" = "BANK";
+
+/* Title for bank account information form */
+"BANK ACCOUNT INFORMATION" = "BANKKONTOOPPLYSNINGAR";
+
+/* Title for billing address entry section */
+"BILLING ADDRESS" = "FAKTURAADRESSE";
+
+/* Title for billing address entry section */
+"Billing Address" = "Fakturaadresse";
+
+/* SEPA legal authorization text – must use official translations. */
+"By providing your IBAN and confirming this payment, you are authorizing %@ and Stripe, our payment service provider, to send instructions to your bank to debit your account and your bank to debit your account in accordance with those instructions. You are entitled to a refund from your bank under the terms and conditions of your agreement with your bank. A refund must be claimed within 8 weeks starting from the date on which your account was debited." = "Ved å oppgje IBAN-nummeret og bekrefte denne betalinga, gjer du %@ og Stripe, som leverer betalingstjenesta vår, autorisasjon til at sende instruks til banken din om å belaste kontoen i samsvar med denne instruksen. Du har krav på å få refusjon frå banken ut frå vilkåra og førsetnadene i avtala du har med banken. Refusjon må krevjes innan 8 veker frå og med datoen da kontoen blei belasta.";
+
+/* Title for card number entry field */
+"CARD" = "KORT";
+
+/* Title for credit card number entry field */
+"Card" = "Kortnummer";
+
+/* accessibility label for text field */
+"card number" = "kortnummer";
+
+/* Caption for City field on address form */
+"City" = "Stad";
+
+/* Title for contact info form */
+"Contact" = "Kontakt";
+
+/* Title for contact info form */
+"CONTACT" = "KONTAKT";
+
+/* Text for continue button */
+"Continue" = "Fortsett";
+
+/* Caption for Country field on address form */
+"Country" = "Land";
+
+/* Title for country picker section */
+"COUNTRY" = "LAND";
+
+/* Caption for County field on address form (only countries that use county, like United Kingdom) */
+"County" = "Fylke";
+
+/* Label for entering CVC in text field */
+"CVC" = "CVC";
+
+/* Label for entering CVV in text field */
+"CVV" = "CVV";
+
+/* Title for delivery info form */
+"Delivery" = "Leveranse";
+
+/* Title for delivery address entry section */
+"DELIVERY ADDRESS" = "LEVERINGSADRESSE";
+
+/* Title for delivery address entry section */
+"Delivery Address" = "Leveringsadresse";
+
+/* Caption for Email field on address form */
+"Email" = "E-post";
+
+/* Source type brand name */
+"EPS" = "EPS";
+
+/* accessibility label for text field */
+"expiration date" = "utlaupsdato";
+
+/* Label for free shipping method */
+"Free" = "Gratis";
+
+/* Source type brand name */
+"Giropay" = "Giropay";
+
+/* IBAN placeholder – don't translate */
+"IBAN" = "IBAN";
+
+/* Source type brand name */
+"iDEAL" = "iDEAL";
+
+/* Shipping form error message */
+"Invalid Shipping Address" = "Ugyldig sendingsadresse";
+
+/* Title for screen when data is still loading from the network. */
+"Loading…" = "Lastar …";
+
+/* label for text field to enter card expiry */
+"MM/YY" = "MM/ÅÅ";
+
+/* Title for payment options section */
+"MORE OPTIONS" = "FLEIRE ALTERNATIV";
+
+/* Source type brand name */
+"Multibanco" = "Multibanco";
+
+/* Caption for Name field on address form */
+"Name" = "Navn";
+
+/* Label for button to add a new credit or debit card */
+"New Card" = "Nytt kort";
+
+/* Label for button to add a new SEPA Direct Debit account */
+"New Direct Debit Account" = "Ny AvtaleGiro-konto";
+
+/* Accessibility label for button to add a new SEPA Direct Debit account */
+"New SEPA Direct Debit Account" = "Ny SEPA AvtaleGiro-konto";
+
+/* Button to move to the next text entry field */
+"Next" = "Neste";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* Source type brand name */
+"P24" = "P24";
+
+/* Pay with {payment method} */
+"Pay with %@" = "Betal med %@";
+
+/* Title for Payment Method screen */
+"Payment Method" = "Betalingsmetode";
+
+/* Caption for Phone field on address form */
+"Phone" = "Telefonnr.";
+
+/* Short string for postal code (text used in non-US countries). Please keep to 8 characters or less if possible. */
+"Postal" = "Postnr.";
+
+/* Caption for Postal Code field on address form (only shown in countries other than the United States) */
+"Postal Code" = "Postnummer";
+
+/* Caption for Province field on address form (only countries that use province, like Canada) */
+"Province" = "Provins";
+
+/* Text for button to scan a credit card */
+"Scan Card" = "Skann kortet";
+
+/* part of {SEPA Account} ending in {last4} */
+"SEPA Account" = "SEPA-konto";
+
+/* Source type brand name */
+"SEPA Direct Debit" = "SEPA AvtaleGiro";
+
+/* Title for shipping info form */
+"Shipping" = "Sending";
+
+/* Title for shipping address entry section */
+"SHIPPING ADDRESS" = "SENDINGSADRESSE";
+
+/* Title for shipping address entry section */
+"Shipping Address" = "Sendingsadresse";
+
+/* Label for shipping method form */
+"SHIPPING METHOD" = "SENDINGSMETODE";
+
+/* Label for shipping method form */
+"Shipping Method" = "Sendingsmetode";
+
+/* Source type brand name */
+"SOFORT" = "SOFORT";
+
+/* Caption for State field on address form (only countries that use state , like United States) */
+"State" = "Fylke";
+
+/* Caption for generalized state/province/region field on address form (not tied to a specific country's format) */
+"State / Province / Region" = "Fylke";
+
+/* Error when the seleted payment method is not available (eg attempted to use 3D Secure on a card that does not support it). */
+"The selected payment method is not available." = "Den valdte betalingsmetoden er ikkje tilgjengeleg.";
+
+/* Error when there is a problem processing the credit card */
+"There was an error processing your card -- try again in a few seconds" = "Det oppstod ei feil under behandlinga av kortet – prøv igjen om nokre få sekundar";
+
+/* Unexpected error, such as a 500 from Stripe or a JSON parse error */
+"There was an unexpected error -- try again in a few seconds" = "Det oppstod ei uventa feil – prøv igjen om nokre få sekundar";
+
+/* Error when 3DS2 authentication timed out. */
+"Timed out authenticating your payment method -- try again" = "Tidsavbrot ved godkjenning av betalingsmåten - prøv på ny";
+
+/* Default missing source type label */
+"Unknown" = "Ukjend";
+
+/* Button to fill shipping address from billing address. */
+"Use Billing" = "Bruk fakturaadressen";
+
+/* Button to fill billing address from delivery address. */
+"Use Delivery" = "Bruk leveringsadressa";
+
+/* Button to fill billing address from shipping address. */
+"Use Shipping" = "Bruk sendingsadressen";
+
+/* Error when 3DS2 authentication failed (e.g. customer entered the wrong code) */
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Me kan ikkje godkjenna betalingsmåten. Gjer så vel å velgja ein annan betalingsmetode og prøv på ny.";
+
+/* You'll be taken to {bank name} to finish your purchase. */
+"You'll be taken to %@ to finish your purchase." = "Du blir tatt med til %@ for å fullføre kjøpet.";
+
+/* Error when the card has already expired */
+"Your card has expired" = "Kortet har gått ut";
+
+/* Error when the card was declined by the credit card networks */
+"Your card was declined" = "Kortet blei avvist";
+
+/* Error when the card's expiration month is not valid */
+"Your card's expiration month is invalid" = "Kortets utløpsmåned er ugyldig";
+
+/* Error when the card's expiration year is not valid */
+"Your card's expiration year is invalid" = "Kortets utlaupsår er ugyldig";
+
+/* Error when the card number is not valid */
+"Your card's number is invalid" = "Kortnummeret er ugyldig";
+
+/* Error when the card's CVC is not valid */
+"Your card's security code is invalid" = "Kortets sikkerheitskode er ugyldig";
+
+/* Short string for zip code (United States only) Please keep to 5 characters or less if possible. */
+"ZIP" = "POSTNR.";
+
+/* Caption for Zip Code field on address form (only shown when country is United States only) */
+"ZIP Code" = "Postnummer";
+

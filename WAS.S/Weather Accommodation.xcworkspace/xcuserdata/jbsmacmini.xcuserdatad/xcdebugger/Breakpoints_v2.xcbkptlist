@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CC7DB70C-D1C0-4FC2-B393-CEF96605FB9B"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4C69C2E-D871-4344-94F1-8C51DAC884D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "W.A.S/App Screens/Provider App/ProviderTrip/StartTripViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "btnActionPressed()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B4C69C2E-D871-4344-94F1-8C51DAC884D1 - 1ad76901d748590b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weather_Accommodation.StartTripViewController.btnActionPressed() -&gt; ()"
+                  moduleName = "Weather Accommodation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data-I%20(E)/Georgette%20Nguiekou%E2%81%A9/Weather%20Accommodation%20Services%E2%81%A9/Application/iOS/W.A.S/W.A.S/App%20Screens/Provider%20App/ProviderTrip/StartTripViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "3536">
+               </Location>
+               <Location
+                  uuid = "B4C69C2E-D871-4344-94F1-8C51DAC884D1 - 632678b6452a68b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.AnyObject, Swift.Bool) -&gt; () in Weather_Accommodation.StartTripViewController.btnActionPressed() -&gt; ()"
+                  moduleName = "Weather Accommodation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data-I%20(E)/Georgette%20Nguiekou%E2%81%A9/Weather%20Accommodation%20Services%E2%81%A9/Application/iOS/W.A.S/W.A.S/App%20Screens/Provider%20App/ProviderTrip/StartTripViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,37 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '12.0'
+
+target 'Weather Accommodation' do
+
+  project 'Weather Accommodation.xcodeproj'
+  # Pods for Weather Accommodation
+
+	pod 'IQKeyboardManagerSwift'
+	pod 'Alamofire'
+	pod 'AlamofireImage'
+	pod 'Locksmith’
+	#pod 'MBCircularProgressBar'
+	pod 'SkyFloatingLabelTextField'
+
+	pod 'JDropDownAlert'
+  pod 'NVActivityIndicatorView'
+	pod 'ReachabilitySwift'
+#	pod 'CountryList'
+	#pod 'JJFloatingActionButton'
+  
+  pod 'Firebase/Auth'
+  pod 'Firebase/Firestore'
+  pod 'Firebase/Messaging'
+
+	pod 'SideMenu'
+  pod 'Cosmos'
+	pod 'SDWebImage'
+#	pod 'FSCalendar'
+  pod 'GoogleMaps'
+  pod 'GooglePlaces'
+  pod 'Starscream'
+  pod 'UICircularProgressRing'
+  pod 'Stripe'
+  pod 'STPopup'
+    
+end

@@ -1,0 +1,6 @@
+module SkyFloatingLabelTextField {
+  umbrella header "SkyFloatingLabelTextField-umbrella.h"
+
+  export *
+  module * { export * }
+}

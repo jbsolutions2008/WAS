@@ -1,0 +1,6 @@
+module Pods_Weather_Accommodation {
+  umbrella header "Pods-Weather Accommodation-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,1 @@
+../../../Target Support Files/AlamofireImage/AlamofireImage-umbrella.h
